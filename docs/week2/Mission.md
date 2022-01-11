@@ -126,6 +126,5 @@ git cherry-pick 03e08be
   * 주어진 기능적 요구사항들을 얼마나 테스트 코드로 구현하였는가?
 
 
-
 >>>>>>> 03e08be ([Week 2] Add template & mission docs)
 
