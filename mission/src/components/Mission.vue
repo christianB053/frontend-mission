@@ -22,6 +22,7 @@ export default {
     },
     inputTextCounterAlert() {
       this.counter += 1;
+      // eslint-disable-next-line no-alert
       alert(`${this.inputText} ${this.counter}`);
     },
   },
